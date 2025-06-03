@@ -13,7 +13,7 @@ inventory levels efficiently can be handled by the business.
 
 --CHUNK ONE
 /* 
-Step 1: Build "pproducts table". The structure of this table
+Step 1: Build "products table". The table frame
 stores info related to products available in the store, cutting across
 product ID, name, description, price and category, aiding to manage
 the product catalog effectively.
