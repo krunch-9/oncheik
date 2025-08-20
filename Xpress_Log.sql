@@ -2,7 +2,7 @@
 An Employee Payroll System for XpressLogistic Ltd
 It is designed to manage and automate the 
 financial records for the employees of the company; 
-and equally manage salaries, taxes, deductins
+and equally manage salaries, taxes, deductions
 bonuses and other payroll-related activities efficiently.
 */
 
@@ -192,4 +192,5 @@ ON
 	e.employee_id = p.employee_id
 WHERE
 	p.payment_date BETWEEN '04-01-2023' AND '04-27-2023';
+
 
